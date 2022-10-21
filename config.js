@@ -7,13 +7,13 @@ global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['6283866366437']
-global.OwnerNumber = ['6283866366437']
-global.ownertag = ['6283866366437']
-global.BotName = "Siesta Botz"
-global.packname = "Siesta Botz"
-global.author = "By: Kanna Chan"
-global.OwnerName = "Kanna"
+global.Owner = ['6285730794089']
+global.OwnerNumber = ['6285730794089']
+global.ownertag = ['6285730794089']
+global.BotName = "Gilzz Botz"
+global.packname = "Gilzz Botz"
+global.author = "By: Gilzz"
+global.OwnerName = "GilzzOfc"
 global.BotSourceCode = "Beli Sc Nya Lah Anjay🐤🐤"
 global.SupportGroupLink = "https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea"
 global.sessionName = "session"
